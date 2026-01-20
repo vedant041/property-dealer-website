@@ -9,7 +9,7 @@ export default function PropertyLayoutCard() {
   const layouts = [
     {
       id: "layout-1",
-      image: "/Layoutimg5.png",
+      image: "/PropertyLayoutimg2.png",
       projects: [
         {
           title: "Modern Residences",

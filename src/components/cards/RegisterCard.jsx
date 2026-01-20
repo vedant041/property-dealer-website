@@ -48,7 +48,7 @@ export default function RegisterCard({ onSwitch }) {
       
       {/* Header */}
       <div>
-        <h2 className="text-2xl font-semibold text-[#1F3A5F]">
+        <h2 className="text-2xl font-semibold !text-[#1F3A5F]">
           Register
         </h2>
         <p className="text-sm text-gray-500">
